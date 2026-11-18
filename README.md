@@ -1,7 +1,5 @@
 ![Banner de perfil](./banner.jpg)
 
-![Banner](./banner.jpg)
-
 ## 🚀 Live Projects
 
 ### Featured
