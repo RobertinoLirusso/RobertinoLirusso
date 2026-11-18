@@ -1,3 +1,4 @@
+
 ![Banner de perfil](./banner.jpg)
 
 ## 🚀 Live Projects
@@ -6,13 +7,15 @@
 
 <p align="left">
   <a href="https://football-clubs-worldwide.vercel.app/">
-    <img src="https://img.shields.io/badge/FOOTBALL_CLUBS_WORLDWIDE-EXPLORE-FFFFFF?style=flat-square&labelColor=171717" alt="Football Clubs Worldwide"/>
+    <img src="https://img.shields.io/badge/FOOTBALL_CLUBS_WORLDWIDE-EXPLORE-FFFFFF?style=flat-square&labelColor=000000" alt="Football Clubs Worldwide"/>
   </a>
+  &nbsp;
   <a href="https://tactical-watch.onrender.com/">
-    <img src="https://img.shields.io/badge/TACTICAL_WATCH-EXPLORE-FFFFFF?style=flat-square&labelColor=171717" alt="Tactical Watch"/>
+    <img src="https://img.shields.io/badge/TACTICAL_WATCH-EXPLORE-FFFFFF?style=flat-square&labelColor=000000" alt="Tactical Watch"/>
   </a>
+  &nbsp;
   <a href="https://space-simulator-xklw.onrender.com/">
-    <img src="https://img.shields.io/badge/SPACE_SIMULATOR-LAUNCH-FFFFFF?style=flat-square&labelColor=171717" alt="Space Simulator"/>
+    <img src="https://img.shields.io/badge/SPACE_SIMULATOR-LAUNCH-FFFFFF?style=flat-square&labelColor=000000" alt="Space Simulator"/>
   </a>
 </p>
 
@@ -20,21 +23,26 @@
 
 <p align="left">
   <a href="https://my-gallery-rl.netlify.app/">
-    <img src="https://img.shields.io/badge/MY_GALLERY-VISIT-CCCCCC?style=flat-square&labelColor=111111" alt="My Gallery"/>
+    <img src="https://img.shields.io/badge/MY_GALLERY-VISIT-FFFFFF?style=flat-square&labelColor=000000" alt="My Gallery"/>
   </a>
+  &nbsp;
   <a href="https://alberta-info.netlify.app/">
-    <img src="https://img.shields.io/badge/ALBERTA_INFO-VISIT-CCCCCC?style=flat-square&labelColor=111111" alt="Alberta Info"/>
+    <img src="https://img.shields.io/badge/ALBERTA_INFO-VISIT-FFFFFF?style=flat-square&labelColor=000000" alt="Alberta Info"/>
   </a>
+  &nbsp;
   <a href="https://footballstories.vercel.app/">
-    <img src="https://img.shields.io/badge/FOOTBALL_STORIES-READ-CCCCCC?style=flat-square&labelColor=111111" alt="Football Stories"/>
+    <img src="https://img.shields.io/badge/FOOTBALL_STORIES-READ-FFFFFF?style=flat-square&labelColor=000000" alt="Football Stories"/>
   </a>
+  &nbsp;
   <a href="https://chernobyl-two.vercel.app/">
-    <img src="https://img.shields.io/badge/CHERNOBYL-EXPLORE-CCCCCC?style=flat-square&labelColor=111111" alt="Chernobyl"/>
+    <img src="https://img.shields.io/badge/CHERNOBYL-EXPLORE-FFFFFF?style=flat-square&labelColor=000000" alt="Chernobyl"/>
   </a>
+  &nbsp;
   <a href="https://cfrclujfanpage.vercel.app/">
-    <img src="https://img.shields.io/badge/CFR_CLUJ_FANPAGE-VISIT-CCCCCC?style=flat-square&labelColor=111111" alt="CFR Cluj Fanpage"/>
+    <img src="https://img.shields.io/badge/CFR_CLUJ_FANPAGE-VISIT-FFFFFF?style=flat-square&labelColor=000000" alt="CFR Cluj Fanpage"/>
   </a>
+  &nbsp;
   <a href="https://road-to-munich.vercel.app/">
-    <img src="https://img.shields.io/badge/ROAD_TO_MUNICH-PLAY-CCCCCC?style=flat-square&labelColor=111111" alt="Road to Munich"/>
+    <img src="https://img.shields.io/badge/ROAD_TO_MUNICH-PLAY-FFFFFF?style=flat-square&labelColor=000000" alt="Road to Munich"/>
   </a>
 </p>
