@@ -1,6 +1,4 @@
-![Banner de perfil](./banner.jpg)
-
-## 🚀 Live Projects
+## 🚀 Projects
 
 ### Featured
 
